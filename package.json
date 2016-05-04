@@ -1,12 +1,12 @@
 {
-  "name": "workflows",
+  "name": "alpha workflow",
   "version": "0.0.1",
-  "description": "A project to showcase workflows",
+  "description": "A starter workflow for prototyping.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/workflows.git"
+    "url": "https://github.com/ryan258/alpha.git"
   },
-  "author": "Ray Villalobos",
+  "author": "Ryan Johnson",
   "devDependencies": {
     "gulp": "^3.6.2",
     "gulp-util": "^2.2.14",
