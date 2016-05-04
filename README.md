@@ -1,8 +1,3 @@
-# Web Project Workflows with Gulp.js, Git, and Browserify
-![Web Project Workflows with Gulp.js, Git, and Browserify](hero.png)
-This is the repository for the, [Web Project Workflows with Gulp.js, Git, and Browserify](http://www.lynda.com/AngularJS-tutorials/Building-Data-Driven-App-AngularJS/174237-2.html).
-
-## Description
 Modern front-end development means more than just writing HTML, CSS, and JavaScript. Developing an efficient workflow will help you write better code and test and deploy your web applications easily and efficiently. Generate a workflow that makes it easier to build websites with processed languages like Sass, Compass, and CoffeeScript. Automate development and production versions of your sites, track and share project files with Git and GitHub, and add libraries like jQuery and Mustache.js with Browserify.
 
 ## Instructions
